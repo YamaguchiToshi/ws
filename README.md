@@ -11,16 +11,16 @@ https://yamaguchitoshi.github.io/ws/
 
 ## Main features
 
-Sensory
+Sensory: 
 Animation and sound effects accompany the mouse pointer
 This feature is suitable for young children starting to practise pointing devices to learn cause-and-effect relationships
 
-Heat map
+Heat map: 
 This function analyses the trajectory of the mouse pointer
 The places where the mouse pointer stays are painted blue, green, yellow, orange or red, depending on the time spent.
 The closer the colour is to red, the longer the mouse pointer stays in the area.
 
-Trajectory plot
+Trajectory plot: 
 If the mouse stays at a certain location (within 60 pixels) for a certain amount of time (300 ms), a circular symbol will be displayed at the coordinates.
 The diameter of the circle changes according to the time spent, and the time spent is displayed in ms.
 Each circle is connected by a line and numbered in the order in which they stayed.

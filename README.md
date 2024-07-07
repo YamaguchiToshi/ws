@@ -43,4 +43,4 @@ This means you can use a mouse, trackball, joystick or eye tracker.
 
 ## Author
 
-[X](https://x.com/YamaguchiToshi)
+[Toshimitsu Yamaguchi](https://x.com/YamaguchiToshi)

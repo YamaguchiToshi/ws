@@ -9,6 +9,12 @@ It also has a function to record the mouse pointer's trajectory and analyse it.
 https://yamaguchitoshi.github.io/ws/
 
 
+## Requirement
+
+- Pointing devices
+- This program has been tested with the Chrome browser.
+
+
 ## Main features
 
 Sensory: 
@@ -24,7 +30,7 @@ Trajectory plot:
 If the mouse stays at a certain location (within 60 pixels) for a certain amount of time (300 ms), a circular symbol will be displayed at the coordinates.
 The diameter of the circle changes according to the time spent, and the time spent is displayed in ms.
 Each circle is connected by a line and numbered in the order in which they stayed.
-If you use the eye tracker as a pointing device you will get results as Gaze Plot.
+If you use the eye tracker as a pointing device you will get results as Gaze Plot. The picture below shows the result of using this WebSensory with an eye tracker connected as a pointing device.
 
 ![heatmap_export (5) (1)](https://github.com/YamaguchiToshi/ws/assets/1419375/bb805d60-fbaf-4832-9757-11c0ccdde804)
 
@@ -33,3 +39,8 @@ If you use the eye tracker as a pointing device you will get results as Gaze Plo
 
 Any pointing device can be used, as long as it is correctly set up on the operating system on which the browser is running.
 This means you can use a mouse, trackball, joystick or eye tracker.
+
+
+## Author
+
+[X](https://x.com/YamaguchiToshi)

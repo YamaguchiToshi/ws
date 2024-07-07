@@ -24,6 +24,7 @@ Trajectory plot:
 If the mouse stays at a certain location (within 60 pixels) for a certain amount of time (300 ms), a circular symbol will be displayed at the coordinates.
 The diameter of the circle changes according to the time spent, and the time spent is displayed in ms.
 Each circle is connected by a line and numbered in the order in which they stayed.
+If you use the eye tracker as a pointing device you will get results as Gaze Plot.
 
 ![heatmap_export (5) (1)](https://github.com/YamaguchiToshi/ws/assets/1419375/bb805d60-fbaf-4832-9757-11c0ccdde804)
 
